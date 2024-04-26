@@ -9,8 +9,8 @@
     "build": "tsc && GH_PAGES=true vite build",
     "build:dev": "tsc && vite build",
     "preview": "vite preview",
-    "predeploy" : "npm run build",
-    "deploy" : "gh-pages -d build"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "dependencies": {
     "@tonconnect/ui-react": "2.0.0",
