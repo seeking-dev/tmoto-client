@@ -1,5 +1,6 @@
 {
   "name": "demo-dapp-react-ui",
+  "homepage": "https://seeking-dev.github.io/tmoto-client",
   "private": true,
   "version": "0.0.0",
   "type": "module",
